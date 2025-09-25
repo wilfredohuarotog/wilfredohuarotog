@@ -17,6 +17,10 @@
 
 - 📫 Correo: **wilfredohuarotogabino@gmail.com**
 
+<br>
+
+</br>
+
 <div id="user-content-toc">
   <ul align="center">
     <h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2>
