@@ -22,7 +22,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,github,docker,postgres,mongodb,mysql,hibernate,kafka,postmans&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,github,docker,postgres,mongodb,mysql,hibernate,kafka,postmans,maven&perline=14" />
   </a>
 </p>
 
