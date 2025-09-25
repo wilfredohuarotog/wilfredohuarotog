@@ -2,11 +2,11 @@
 <h3 align="center">Apasionado desarrollador Java &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
+<!--
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+-->
 - 🔭 I’m currently working in 
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about 
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **wilfredohuarotogabino@gmail.com**
 
 - 📄 Know about my experiences 
 
@@ -32,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,github,docker,postgres,mongodb,mysql,postmans&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java-light,spring-dark,git,github,docker,postgres,mongodb,mysql-light,postmans&perline=14" />
   </a>
 </p>
 
