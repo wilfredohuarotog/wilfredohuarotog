@@ -9,11 +9,11 @@
 </br>
 - 💻 Experiencia en desarrollo backend con Java y Spring Boot, con conocimiento de buenas prácticas, patrones de diseño y princios SOLID.
 
-- 🛠️ Conocimientos en Microservicios y arquitecturas distribuidas
-
-- 📦 Manejo de Docker y despliegue de aplicaciones
-
-- 🤝 Me gusta colaborar en equipo y compartir conocimiento 
+- Conocimiento en Microservicios.
+- Manejo de Docker, control de versiones con git.
+- Documentación de proyectos
+- Conocimiento en CI/CD.
+- Me gusta colaborar en equipo y compartir conocimiento 
 
 - 📫 Correo: **wilfredohuarotogabino@gmail.com**
 
