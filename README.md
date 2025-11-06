@@ -7,7 +7,7 @@
 <br>
 
 </br>
-- 💻 Experiencia en desarrollo backend con Java y Spring Boot, con conocimiento de buenas prácticas, patrones de diseño y princios SOLID.
+- 💻 Experiencia en desarrollo backend con Java y Spring Boot, con conocimiento de buenas prácticas, patrones de diseño y principios SOLID.
 
 - Conocimiento en Microservicios.
 - Manejo de Docker, control de versiones con git.
